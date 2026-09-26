@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    background-color: white;
+    max-width: 400px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+li {
+    padding: 15px;
+    border-bottom: 1px solid #eee;
+}
